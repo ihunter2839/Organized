@@ -7,7 +7,7 @@
 [Senate Bill](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1421)  
 
 Senate Bill 1421 give the public the right to three categories of police records: 
-+Records that involve use of force that resulted in serious injury or death or where officers
++ Records that involve use of force that resulted in serious injury or death or where officers
 discharged their weapons
-+Records from incidents where the agency found the officer had committed sexual assult
-+Records from incidents where the agency found that the officer had behaved dishonestly at any point in the investigation
++ Records from incidents where the agency found the officer had committed sexual assult
++ Records from incidents where the agency found that the officer had behaved dishonestly at any point in the investigation
