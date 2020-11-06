@@ -11,7 +11,7 @@ The first step is to request all police misconduct reports that are publicly ava
 Once the records have been received from your local department, you can upload the files directly to Organize so that everyone in the community can have access to the raw information. The Organize community will also take the files and integrate the information into our national database of police misconduct information, making it possible for individuals and organizations to easily and consistenly analyze the data from communites around the nation. :technologist:
 
 ### Join the Organize Community
-Interested in being a part of the process? You can get started right away - use our request templates to send an email to your local department today! :e-mail: :classical-building:
+Interested in being a part of the process? You can get started right away - use our request templates to send an email to your local department today! :e-mail: 
 
 
 
