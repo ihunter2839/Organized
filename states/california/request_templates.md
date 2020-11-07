@@ -1,8 +1,8 @@
 [DATE]
 
-[SPECIFIC PRA CONTACT, IF KNOWN (may be listed on Department’s website)]
-[LAW ENFORCEMENT AGENCY]
-[ADDRESS]
+[SPECIFIC PRA CONTACT, IF KNOWN]  
+[LAW ENFORCEMENT AGENCY]  
+[ADDRESS]  
 Email: [EMAIL FOR PRA CONTACT, IF KNOWN]
 
 RE: Request for Public Records Available Under SB1421
@@ -16,7 +16,7 @@ Please respond to this request in ten days, either by providing the requested in
 [ORGANIZATION, IF APPLICABLE]
 [ADDRESS]
 
-Because I [AM THE PARENT/SIBLING OF THE INDIVIDUAL KILLED/AM THE INDIVIDUAL INJURED IN THE ABOVE INCIDENT/AM THE COMPLAINANT IN THE ABOVE INCIDENT/REPRESENT A NON-PROFIT, PUBLIC INTEREST ORGANIZATION THAT INTENDS TO FREELY DISTRIBUTE THIS INFORMATION]I request that you waive any fees. North Cty. Parents Ass’n v. Dep’t of Ed., 23 Cal. App. 4th 144, 148 (1994); Cal. Gov. Code §6253(e). However, should you be unable to do so, [I/ORGANIZATION] will reimburse your agency for the “direct costs” of copying these records. If you anticipate these costs to exceed $10, please notify me prior to making the copies.  Thank you in advance for providing the records we have requested. Please do not hesitate to contact mewith any questions regarding this letter. Sincerely,
+Because I represent a non-profit, public interest organization that intends to freely distribute this information, I request that you waive any fees. North Cty. Parents Ass’n v. Dep’t of Ed., 23 Cal. App. 4th 144, 148 (1994); Cal. Gov. Code §6253(e). However, should you be unable to do so, [I/ORGANIZATION] will reimburse your agency for the “direct costs” of copying these records. If you anticipate these costs to exceed $10, please notify me prior to making the copies.  Thank you in advance for providing the records we have requested. Please do not hesitate to contact mewith any questions regarding this letter. Sincerely,
 
 [NAME]
 
