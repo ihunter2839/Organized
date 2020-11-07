@@ -20,5 +20,3 @@ Because I represent a non-profit, public interest organization that intends to f
 
 [NAME]
 
-The term “records” as used in this request is defined as “any writing containing information relating to the conduct of the public’s business prepared, owned, used, or retained by any state or local agency regardless of physical form or characteristics.”  Cal. Govt. Code § 6252, subsection (e).  “Writing” is defined as “any handwriting, typewriting, printing, photostating, photographing, photocopying, transmitting by electronic mail or facsimile, and every other means of recording upon any tangible thing any form of communication or representation, including letters, words, pictures, sounds, or symbols, or combinations thereof, and any record thereby created, regardless of the manner in which the record has been stored.”  Cal. Govt. Code § 6252 (g).
-
