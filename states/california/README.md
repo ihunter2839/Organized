@@ -1,6 +1,8 @@
 # General Information
 
 ## Relevant Laws and Regulations
+
+### SB 1421
 > In 2018, the California Legislature passed SB1421, The Right To Know Act, which gives the public the right to see certain records relating to police misconduct and serious uses of force. You can now request these records under the Public Records Act ("PRA") — a law that gives the public the right to see the non-confidential documents of our state and local government agencies.
 
 *ACLU of California*
