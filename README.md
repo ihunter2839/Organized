@@ -2,7 +2,7 @@
 A single, comprehensive, and public database of records on police behavior. :policewoman: :us: :partying_face:
 
 ## What is this project?
-Our goal is to make it simple for individuals to participate in collecting and publishing available information on police misconduct. We provide free and consistent access to the data so everyone can be an informed part of their communities' discussions on police behavior and reform. :statue_of_liberty:
+Our goal is to make it simple for individuals to participate in collecting and publishing available information on police behavior. We provide free and consistent access to the data so everyone can be an informed part of their communities' discussions on police behavior and reform. :statue_of_liberty:
 
 ### Request Reports from your Local Department
 The first step is to request all police misconduct reports that are publicly available from your local department. Depending on the state you live in, the scope of these records will vary. Once this is completed, an entry will get added to the public log for the department that can help the community track the progress of receiving the records. :detective:
