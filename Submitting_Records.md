@@ -12,7 +12,7 @@ We use the term "record" throughout this project - so what exactly is a record? 
 + Camera footage from a citizen's cellphone or other recording device
 + Text or written communication regarding information requests
 
-This list is by no means comprehensive - if you believe you have some other piece of data you'd like to submit, please send it along and the community can
+This list is by no means comprehensive - if you have some other piece of data you'd like to submit, please send it along and the community can
 help decide if the information is relevant. 
 
 ## How Can I Submit Records?
@@ -20,7 +20,7 @@ If you already have records that you have previously requested from the police a
 If possible, please also include some additional details to help us categorize your records.
 
 + What was the intent when requesting these records? (Ex. lawsuit against department, research into department policy)
-+ Did you receive all of the information that you requested? (Or, were some files / information explicitly denied?)
++ Did you receive all of the records that you requested? (Or, were some files / information explicitly denied?)
 + Your contact information
 
 ### Submit Records By Email
