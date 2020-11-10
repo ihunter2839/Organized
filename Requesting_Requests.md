@@ -6,10 +6,10 @@ and made consistently available for all.
 
 ## General Information on Requesting Records
 
-When thinking about requesting information from the Government, many folks will no doubt think of the Freedom of Information Act (FOIA), which requires
+When we talk about requesting information from the Government, many folks will no doubt think of the Freedom of Information Act (FOIA), which requires
 full or partial disclosure of information and documents held by the United States government. Although it may at first glance seem that this act would give citizens
 the right to request documents from law enforcement, it is important to note that the FOIA only pertains to the **executive branch** of the federal governemt, 
-making it an invalid basis for requesting records from your local, state managed department.
+making it an invalid basis for requesting records from your local, state managed department.  
 
 Instead, most states have enacted their own Freedom of Information laws which determine what sorts of information are available for full or partial disclosure at the
 public's request. This means that the information that is available in one state may *not be* available in another, and the process used to obtain records can vary 
