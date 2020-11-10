@@ -11,16 +11,4 @@ The first step is to request all police misconduct reports that are publicly ava
 Once the records have been received from your local department, you can upload the files directly to the Organize repository so that everyone in the community can have access to the raw information. The Organize community will also take the files and integrate the information into our national database of police misconduct information, making it possible for individuals and organizations to easily and consistenly analyze the data from communities around the nation. :technologist:
 
 ### Join the Organize Community
-Interested in being a part of the process? You can get started right away!
-
-### Send us Records
-Have you already requested records from a police department? Share you purpose, process, and records with the community so others can learn from your experiences. Send us an email at <info@organizeapp.org> or submit a pull request to this repo with the files. See the [**Submitting Records**](https://github.com/ihunter2839/Organized/blob/main/Submitting_Records.md) page for more information on submitting records. 
-
-### Know how to Obtain Records?
-Do you have knowledge about the process used to obtain police records for your local community, county, or state? Contribute to our information pages so others can leverage that information to request their own records. See the [**Requesting Records**](https://github.com/ihunter2839/Organized/blob/main/Requesting_Requests.md) and **State and Department Information** pages for additional information.
-
-
-
-
-
-
+Interested in being a part of the process? You can get started right away! See our wiki pages on [**submitting records you already obtained**](https://github.com/ihunter2839/Organized/wiki/Submitting-Records#how-can-i-submit-records) or how to [**request new records**](https://github.com/ihunter2839/Organized/wiki/Requesting-Records#how-to-request-records) from a department near you.
