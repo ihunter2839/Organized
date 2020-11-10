@@ -17,7 +17,7 @@ Interested in being a part of the process? You can get started right away!
 Have you already requested records from a police department? Share you purpose, process, and records with the community so others can learn from your experiences. Send us an email at <info@organizeapp.org> or submit a pull request to this repo with the files. See the [**Submitting Records**](https://github.com/ihunter2839/Organized/blob/main/Submitting_Records.md) page for more information on submitting records. 
 
 ### Know how to Obtain Records?
-Do you have knowledge about the process used to obtain police records for your local community, county, or state? Contribute to our information pages so others can leverage that information to request their own records. See the **Creating a Records Request** and **State and Department Information** pages for additional information.
+Do you have knowledge about the process used to obtain police records for your local community, county, or state? Contribute to our information pages so others can leverage that information to request their own records. See the [**Requesting Records**](https://github.com/ihunter2839/Organized/blob/main/Requesting_Requests.md) and **State and Department Information** pages for additional information.
 
 
 
