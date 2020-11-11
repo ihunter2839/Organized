@@ -1,6 +1,6 @@
-# San Fransisco Police Department
+# San Francisco Police Department
 
-## San Fransisco Police Headquarters
+## San Francisco Police Headquarters
 1245 3rd Street  
 San Fransisco, CA 94158  
 1-415-837-7000 
