@@ -6,7 +6,7 @@ San Fransisco, CA 94158
 1-415-837-7000 
 
 ## Requests
-- [x] Reference code P012138-060320  
+- [ ] Reference code P012138-060320  
 Submitted on June 3, 2020    
 Primary contact: <ian@organizeapp.org>  
 
