@@ -1,7 +1,7 @@
 # State Directories
 
 Each state has a unique directory in our project, and our goal is to create subdirectories for every department in the nation. To find your department, click on the
-directory associated with your state. States and departments are organized in alphabetical order.
+directory associated with your state. States and departments are organized in alphabetical order, and can also be found using the "Go to File" feature through Github.
 
 ## State Specific Information 
 
